@@ -1,6 +1,6 @@
 #ZE HUEI LIM 🐲
 
-I'm a **Full-Stack Developer** currently studying at Queen's University Belfast 🇬🇧
+I'm a **Full-Stack Developer** currently studying at Queen's University Belfast
 
 ---
 
@@ -14,15 +14,9 @@ I'm a **Full-Stack Developer** currently studying at Queen's University Belfast 
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact
 
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/ze-huei-lim-310a162b5/)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ze-huei-lim-310a162b5/)  
 - Email: zlim11@qub.ac.uk
 
 
