@@ -1,16 +1,28 @@
-## Hi there 👋
-      
+#ZE HUEI LIM 🐲
 
-**ZEHUEI/ZEHUEI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** currently studying at Queen's University Belfast 🇬🇧
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔧 Skills
+
+**Languages:** JavaScript, Python, Java  
+**Frontend:** React, Tailwind CSS, Bootstrap, Framer Motion  
+**Backend:** Node.js, Express.js, RESTful & GraphQL APIs, SpringBoot
+**Database:** Snowflake, MySQL, PostgreSQL
+**Tools:** Git/GitHub, Power BI
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/ze-huei-lim-310a162b5/)  
+- Email: zlim11@qub.ac.uk
+
 
