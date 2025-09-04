@@ -1,4 +1,4 @@
-#**ZE HUEI LIM 🐲**
+#ZE HUEI LIM 🐲
 
 I'm a **Full-Stack Developer** currently studying at Queen's University Belfast
 
