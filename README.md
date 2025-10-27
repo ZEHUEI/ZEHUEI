@@ -22,6 +22,6 @@ I'm a **Full-Stack Developer** currently studying at Queen's University Belfast
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ze-huei-lim-310a162b5/)  
 - Email: zlim11@qub.ac.uk
-- Portfolio: (https://ze-huei.vercel.app/)
+- Portfolio: https://ze-huei.vercel.app/
 
 
