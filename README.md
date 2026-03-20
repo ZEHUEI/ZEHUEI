@@ -1,6 +1,6 @@
 # ZE HUEI LIM 🐲
 
-I'm a **Full-Stack Developer** currently studying at Queen's University Belfast
+I'm a **Full-Stack Developer** at MXR and student at Queen's University Belfast
 
 ---
 
@@ -10,11 +10,13 @@ I'm a **Full-Stack Developer** currently studying at Queen's University Belfast
 
 **Frontend:** React, Tailwind CSS, Bootstrap, Framer Motion  
 
-**Backend:** Node.js, Express.js, RESTful & GraphQL APIs, SpringBoot
+**Backend:** Node.js, Express.js, RESTful & GraphQL APIs, SpringBoot, Flask
 
-**Database:** Snowflake, MySQL, PostgreSQL
+**Database:** Snowflake, MySQL, PostgreSQL, Firebase, AWS EC2
 
 **Tools:** Git/GitHub, Power BI
+
+**Cloud:** AWS, Azure, Google Cloud Run
 
 ---
 
