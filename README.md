@@ -21,7 +21,7 @@ I'm a **Full-Stack Developer** at MXR and student at Queen's University Belfast
 ---
 ## 🤟 Featured Project
 
--Check Out: https://rotor-ai.vercel.app/
+- Check Out: https://rotor-ai.vercel.app/
 
 ---
 
