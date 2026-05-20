@@ -19,6 +19,11 @@ I'm a **Full-Stack Developer** at MXR and student at Queen's University Belfast
 **Cloud:** AWS, Azure, Google Cloud Run
 
 ---
+## 🤟 Featured Project
+
+-Check Out: https://rotor-ai.vercel.app/
+
+---
 
 ## 📫 Contact
 
