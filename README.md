@@ -20,7 +20,7 @@ I'm a **Full-Stack Developer** at MXR and student at Queen's University Belfast
 
 ## 💼 Experience
 
-**Full-Stack Developer (Contract)** · Ministry XR · *May 2025 – Present*
+**Full-Stack Developer (Contract)** · Ministry XR · *May 2025 – April 2026*
 - Built backend APIs and databases with Express.js, improving performance and reliability
 - Designed secure, scalable RESTful & GraphQL APIs with full documentation
 - Connected React frontend with Unity WebGL in collaboration with designers
